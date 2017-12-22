@@ -226,7 +226,7 @@ footer img {
   color: #fff;
   font-weight: bold;
   font-size: 16px;
-border-radius: 2px;
+  border-radius: 2px;
   background-color: #033048;
   border: 0px;
   vertical-align: middle;
@@ -244,10 +244,10 @@ p {
 main p {
   padding-top: 5%;
   padding-right: 5%;
-    text-decoration: none;
-    color: #606161;
-    font-size: 16px;
-    font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: #606161;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -267,9 +267,7 @@ a:hover {
 }
 
 
-footer {
 
-}
 
 /******************************************
 /* ADDITIONAL STYLES
